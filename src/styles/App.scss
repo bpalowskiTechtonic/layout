@@ -1,0 +1,46 @@
+.wholeContainer {
+  padding: 30px;
+}
+
+.container {
+  overflow: hidden;
+  text-align: center;
+  padding: 30px;
+  border: 6px solid black;
+  height: 80vh;
+}
+
+.wholeContainer .outerContainer {
+  text-align: center;
+  padding: 30px 10px 0px 10px;
+  background-color: grey;
+  border: 6px 6px 0px 6px solid black;
+}
+
+.rightCards .topCard {
+  height: 30vh;
+  border-radius: 20px;
+  margin-top: 50px;
+  padding: 80px;
+  border: 3px solid black;
+}
+
+.rightCards .bottomCard {
+  border-radius: 20px;
+  height: 30vh;
+  margin-top: 50px;
+  border: 3px solid black;
+  padding: 90px;
+}
+
+.leftCard .skill-left-card {
+  margin-top: 50px;
+  border-radius: 20px;
+  margin-left: 15vw;
+  border: 3px solid black;
+  width: 25vw;
+  height: 65vh;
+}
+.inner-skill-left-card {
+  padding: 1px;
+}
